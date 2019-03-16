@@ -7,7 +7,7 @@ echo -e "\e[00;32m[*] https://github.com/M4LV0                                  
 echo -e "\e[00;33m[+]#################################################################################################################[+] \e[00m"
 echo -e "\e[00;32m[*] Authenticated as teacher moodle remote code execution by way of eval injection CVE-2018-1133                    [*] \e[00m"
 echo -e "\e[00;33m[+]#################################################################################################################[+] \e[00m"
-echo -e "\n\e[00;32m# login to moodle. Once athenticated grab your cookie and sesskey. if you cant do that give up...\n# once you have both cookie and sesskey you can run the exploit script. make sure to start a listener on your chosen port..\n# this script is using nc for the reverse shell so you may want to take a look at that if your not getting a shell. anyway have fun...  \e[00m\n"
+echo -e "\n\e[00;32m# make sure to start a listener on your chosen port..\n# this script is using nc for the reverse shell so you may want to take a look at that if your not getting a shell. anyway have fun...  \e[00m\n"
 echo -e "\e[00;33m[+]#################################################################################################################[+] \e[00m"
 
 
